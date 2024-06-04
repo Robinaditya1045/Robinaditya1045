@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm a FullStack Developer
+### I'm a MERN Developer
 
 
 # 💻 Tech Stack:
